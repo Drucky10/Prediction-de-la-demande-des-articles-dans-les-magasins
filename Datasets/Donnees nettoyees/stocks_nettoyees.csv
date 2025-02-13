@@ -1,0 +1,201 @@
+Magasin,Articles,Stock actuel,Seuil de réapprovisionnement,Ville
+Supermarché A1,Milk,457.0,85.0,Edmonton
+Supermarché A1,Bread,411.0,92.0,Toronto
+Supermarché A1,Eggs,362.0,79.0,Toronto
+Supermarché A1,Chicken Breast,328.0,97.0,Toronto
+Supermarché A1,Apples,476.0,87.0,Victoria
+Supermarché A1,Bananas,473.0,98.0,Edmonton
+Supermarché A1,Rice,245.0,97.0,Montreal
+Supermarché A1,Pasta,236.0,92.0,Vancouver
+Supermarché A1,Cheese,163.0,107.0,Toronto
+Supermarché A1,Yogurt,413.0,87.0,Ottawa
+Supermarché A1,Orange Juice,341.0,103.0,Calgary
+Supermarché A1,Ground Beef,228.0,96.0,Winnipeg
+Supermarché A1,Potatoes,168.0,102.0,Halifax
+Supermarché A1,Tomatoes,262.0,84.0,Quebec City
+Supermarché A1,Cereal,152.0,87.0,Calgary
+Supermarché A1,Frozen Pizza,184.0,78.0,Vancouver
+Supermarché A1,Ice Cream,192.0,92.0,Ottawa
+Supermarché A1,Coffee,433.0,91.0,Halifax
+Supermarché A1,Tea,345.0,101.0,Victoria
+Supermarché A1,Peanut Butter,300.0,92.0,Vancouver
+Épicerie B2,Milk,144.0,81.0,Vancouver
+Épicerie B2,Bread,236.0,79.0,Vancouver
+Épicerie B2,Eggs,301.5,95.0,Toronto
+Épicerie B2,Chicken Breast,141.0,97.0,Calgary
+Épicerie B2,Apples,345.0,102.0,Victoria
+Épicerie B2,Bananas,298.0,84.0,Calgary
+Épicerie B2,Rice,208.0,78.0,Edmonton
+Épicerie B2,Pasta,325.0,91.0,Edmonton
+Épicerie B2,Cheese,480.0,108.0,Edmonton
+Épicerie B2,Yogurt,170.0,103.0,Montreal
+Épicerie B2,Orange Juice,301.5,83.0,Vancouver
+Épicerie B2,Ground Beef,301.5,103.0,Vancouver
+Épicerie B2,Potatoes,166.0,82.0,Edmonton
+Épicerie B2,Tomatoes,278.0,94.0,Toronto
+Épicerie B2,Cereal,371.0,92.0,Montreal
+Épicerie B2,Frozen Pizza,192.0,85.0,Winnipeg
+Épicerie B2,Ice Cream,193.0,78.0,Montreal
+Épicerie B2,Coffee,458.0,86.0,Ottawa
+Épicerie B2,Tea,248.0,98.0,Toronto
+Épicerie B2,Peanut Butter,265.0,93.0,Victoria
+Marché C3,Milk,236.0,105.0,Winnipeg
+Marché C3,Bread,301.5,92.0,Toronto
+Marché C3,Eggs,295.0,96.0,Vancouver
+Marché C3,Chicken Breast,380.0,91.0,Victoria
+Marché C3,Apples,135.0,78.0,Edmonton
+Marché C3,Bananas,245.0,83.0,Quebec City
+Marché C3,Rice,469.0,79.0,Winnipeg
+Marché C3,Pasta,237.0,89.0,Halifax
+Marché C3,Cheese,203.0,87.0,Victoria
+Marché C3,Yogurt,177.0,92.0,Winnipeg
+Marché C3,Orange Juice,435.0,80.0,Edmonton
+Marché C3,Ground Beef,325.0,86.0,Halifax
+Marché C3,Potatoes,176.0,104.0,Quebec City
+Marché C3,Tomatoes,471.0,102.0,Victoria
+Marché C3,Cereal,232.0,90.0,Halifax
+Marché C3,Frozen Pizza,146.0,83.0,Edmonton
+Marché C3,Ice Cream,301.5,79.0,Victoria
+Marché C3,Coffee,464.0,99.0,Calgary
+Marché C3,Tea,487.0,101.0,Montreal
+Marché C3,Peanut Butter,367.0,84.0,Edmonton
+Alimentation D4,Milk,302.0,92.0,Toronto
+Alimentation D4,Bread,303.0,108.0,Toronto
+Alimentation D4,Eggs,334.0,91.0,Edmonton
+Alimentation D4,Chicken Breast,301.0,107.0,Calgary
+Alimentation D4,Apples,301.5,98.0,Ottawa
+Alimentation D4,Bananas,288.0,98.0,Montreal
+Alimentation D4,Rice,438.0,106.0,Ottawa
+Alimentation D4,Pasta,286.0,85.0,Calgary
+Alimentation D4,Cheese,255.0,105.0,Montreal
+Alimentation D4,Yogurt,432.0,100.0,Ottawa
+Alimentation D4,Orange Juice,384.0,100.0,Vancouver
+Alimentation D4,Ground Beef,311.0,97.0,Halifax
+Alimentation D4,Potatoes,478.0,93.0,Toronto
+Alimentation D4,Tomatoes,463.0,79.0,Victoria
+Alimentation D4,Cereal,421.0,88.0,Montreal
+Alimentation D4,Frozen Pizza,377.0,87.0,Halifax
+Alimentation D4,Ice Cream,310.0,86.0,Victoria
+Alimentation D4,Coffee,364.0,89.0,Victoria
+Alimentation D4,Tea,157.0,106.0,Quebec City
+Alimentation D4,Peanut Butter,278.0,97.0,Winnipeg
+Centre E5,Milk,476.0,94.0,Quebec City
+Centre E5,Bread,331.0,103.0,Ottawa
+Centre E5,Eggs,342.0,106.0,Montreal
+Centre E5,Chicken Breast,367.0,84.0,Calgary
+Centre E5,Apples,203.0,107.0,Edmonton
+Centre E5,Bananas,479.0,99.0,Montreal
+Centre E5,Rice,193.0,82.0,Montreal
+Centre E5,Pasta,369.0,78.0,Calgary
+Centre E5,Cheese,468.0,93.0,Winnipeg
+Centre E5,Yogurt,218.0,92.0,Halifax
+Centre E5,Orange Juice,341.0,85.0,Halifax
+Centre E5,Ground Beef,238.0,80.0,Edmonton
+Centre E5,Potatoes,344.0,81.0,Calgary
+Centre E5,Tomatoes,392.0,87.0,Montreal
+Centre E5,Cereal,245.0,83.0,Toronto
+Centre E5,Frozen Pizza,375.0,89.0,Victoria
+Centre E5,Ice Cream,301.5,105.0,Victoria
+Centre E5,Coffee,301.5,100.0,Toronto
+Centre E5,Tea,140.0,107.0,Edmonton
+Centre E5,Peanut Butter,430.0,85.0,Toronto
+Magasin F6,Milk,370.0,102.0,Calgary
+Magasin F6,Bread,287.0,91.0,Halifax
+Magasin F6,Eggs,362.0,104.0,Winnipeg
+Magasin F6,Chicken Breast,301.5,88.0,Edmonton
+Magasin F6,Apples,301.5,83.0,Ottawa
+Magasin F6,Bananas,477.0,97.0,Halifax
+Magasin F6,Rice,421.0,82.0,Winnipeg
+Magasin F6,Pasta,409.0,90.0,Victoria
+Magasin F6,Cheese,161.0,90.0,Winnipeg
+Magasin F6,Yogurt,373.0,90.0,Edmonton
+Magasin F6,Orange Juice,274.0,92.0,Montreal
+Magasin F6,Ground Beef,137.0,80.0,Montreal
+Magasin F6,Potatoes,356.0,94.0,Calgary
+Magasin F6,Tomatoes,436.0,99.0,Winnipeg
+Magasin F6,Cereal,182.0,92.0,Calgary
+Magasin F6,Frozen Pizza,138.0,88.0,Ottawa
+Magasin F6,Ice Cream,301.5,94.0,Vancouver
+Magasin F6,Coffee,448.0,108.0,Calgary
+Magasin F6,Tea,375.0,85.0,Edmonton
+Magasin F6,Peanut Butter,299.0,88.0,Winnipeg
+Boutique G7,Milk,451.0,102.0,Quebec City
+Boutique G7,Bread,250.0,107.0,Calgary
+Boutique G7,Eggs,437.0,96.0,Calgary
+Boutique G7,Chicken Breast,259.0,91.0,Toronto
+Boutique G7,Apples,186.0,102.0,Victoria
+Boutique G7,Bananas,218.0,88.0,Winnipeg
+Boutique G7,Rice,294.0,105.0,Montreal
+Boutique G7,Pasta,468.0,90.0,Quebec City
+Boutique G7,Cheese,185.0,92.0,Vancouver
+Boutique G7,Yogurt,316.0,101.0,Edmonton
+Boutique G7,Orange Juice,379.0,94.0,Winnipeg
+Boutique G7,Ground Beef,219.0,99.0,Vancouver
+Boutique G7,Potatoes,192.0,78.0,Winnipeg
+Boutique G7,Tomatoes,274.0,97.0,Calgary
+Boutique G7,Cereal,375.0,104.0,Quebec City
+Boutique G7,Frozen Pizza,484.0,83.0,Edmonton
+Boutique G7,Ice Cream,212.0,85.0,Ottawa
+Boutique G7,Coffee,430.0,102.0,Calgary
+Boutique G7,Tea,263.0,92.0,Halifax
+Boutique G7,Peanut Butter,442.0,92.0,Winnipeg
+Marché H8,Milk,367.0,83.0,Edmonton
+Marché H8,Bread,381.0,106.0,Quebec City
+Marché H8,Eggs,212.0,92.0,Edmonton
+Marché H8,Chicken Breast,301.5,100.0,Winnipeg
+Marché H8,Apples,217.0,82.0,Quebec City
+Marché H8,Bananas,237.0,95.0,Halifax
+Marché H8,Rice,248.0,106.0,Edmonton
+Marché H8,Pasta,434.0,92.0,Quebec City
+Marché H8,Cheese,247.0,104.0,Montreal
+Marché H8,Yogurt,254.0,82.0,Calgary
+Marché H8,Orange Juice,394.0,108.0,Quebec City
+Marché H8,Ground Beef,344.0,91.0,Quebec City
+Marché H8,Potatoes,210.0,78.0,Ottawa
+Marché H8,Tomatoes,137.0,82.0,Vancouver
+Marché H8,Cereal,445.0,100.0,Quebec City
+Marché H8,Frozen Pizza,233.0,89.0,Vancouver
+Marché H8,Ice Cream,487.0,90.0,Edmonton
+Marché H8,Coffee,337.0,84.0,Halifax
+Marché H8,Tea,156.0,96.0,Ottawa
+Marché H8,Peanut Butter,283.0,80.0,Calgary
+Épicerie I9,Milk,383.0,82.0,Ottawa
+Épicerie I9,Bread,451.0,98.0,Montreal
+Épicerie I9,Eggs,140.0,80.0,Quebec City
+Épicerie I9,Chicken Breast,418.0,79.0,Victoria
+Épicerie I9,Apples,293.0,98.0,Edmonton
+Épicerie I9,Bananas,192.0,93.0,Calgary
+Épicerie I9,Rice,230.0,102.0,Edmonton
+Épicerie I9,Pasta,261.0,91.0,Victoria
+Épicerie I9,Cheese,391.0,81.0,Toronto
+Épicerie I9,Yogurt,286.0,87.0,Winnipeg
+Épicerie I9,Orange Juice,430.0,92.0,Toronto
+Épicerie I9,Ground Beef,378.0,100.0,Halifax
+Épicerie I9,Potatoes,301.5,102.0,Edmonton
+Épicerie I9,Tomatoes,435.0,93.0,Winnipeg
+Épicerie I9,Cereal,457.0,107.0,Halifax
+Épicerie I9,Frozen Pizza,224.0,96.0,Edmonton
+Épicerie I9,Ice Cream,431.0,105.0,Victoria
+Épicerie I9,Coffee,211.0,78.0,Toronto
+Épicerie I9,Tea,258.0,84.0,Quebec City
+Épicerie I9,Peanut Butter,345.0,96.0,Ottawa
+Supermarché J0,Milk,426.0,80.0,Edmonton
+Supermarché J0,Bread,301.5,92.0,Victoria
+Supermarché J0,Eggs,375.0,91.0,Calgary
+Supermarché J0,Chicken Breast,215.0,102.0,Victoria
+Supermarché J0,Apples,353.0,81.0,Winnipeg
+Supermarché J0,Bananas,287.0,82.0,Calgary
+Supermarché J0,Rice,399.0,81.0,Vancouver
+Supermarché J0,Pasta,152.0,83.0,Quebec City
+Supermarché J0,Cheese,396.0,80.0,Calgary
+Supermarché J0,Yogurt,176.0,104.0,Toronto
+Supermarché J0,Orange Juice,294.0,81.0,Montreal
+Supermarché J0,Ground Beef,236.0,104.0,Ottawa
+Supermarché J0,Potatoes,205.0,78.0,Vancouver
+Supermarché J0,Tomatoes,205.0,94.0,Edmonton
+Supermarché J0,Cereal,395.0,102.0,Victoria
+Supermarché J0,Frozen Pizza,366.0,83.0,Montreal
+Supermarché J0,Ice Cream,194.0,98.0,Calgary
+Supermarché J0,Coffee,193.0,92.0,Vancouver
+Supermarché J0,Tea,190.0,81.0,Montreal
+Supermarché J0,Peanut Butter,321.0,84.0,Montreal
