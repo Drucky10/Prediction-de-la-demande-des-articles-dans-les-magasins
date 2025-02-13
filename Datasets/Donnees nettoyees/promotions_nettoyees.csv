@@ -1,0 +1,55 @@
+ID promotion,Magasin,Produit,Date de début,Date de fin,Réduction (%),Ville
+914d22bb-c309-4dfa-a05a-2851171ad416,Supermarché A1,Milk,2024-07-03,2025-02-07,34,Halifax
+e66b662e-1f6e-4cdd-b384-2a8034c8fbe0,Supermarché A1,Bread,2024-11-14,2025-02-23,24,Halifax
+ccc45205-b4d1-4881-8967-4428568a1862,Supermarché A1,Ground Beef,2024-04-14,2025-02-26,31,Toronto
+cfcd28ea-ee64-45e9-9940-4f8e41a1df71,Supermarché A1,Potatoes,2024-04-12,2025-02-09,20,Victoria
+277e2967-b5fb-4eba-8f97-38462ad76652,Supermarché A1,Coffee,2024-10-11,2025-02-01,9,Halifax
+5ed5cb7f-3203-4e2d-9bb3-effee2dc9ba5,Supermarché A1,Tea,2024-12-04,2025-02-08,20,Victoria
+ac16e610-9321-4cf3-ac08-a7f89602f9b2,Épicerie B2,Milk,2024-10-21,2025-02-11,48,Winnipeg
+b2fa8813-dd4e-4150-94a2-c71e2e072c58,Épicerie B2,Eggs,2024-10-30,2025-01-31,20,Calgary
+a0caab17-013a-4289-8510-527ee635a358,Épicerie B2,Apples,2024-10-31,2025-02-22,27,Quebec City
+bfdc99c3-aefb-4a9d-9268-6c06479e9643,Épicerie B2,Bananas,2024-09-17,2025-02-13,18,Toronto
+cc4db1b3-fe81-46ec-a91e-47a12bc593bd,Épicerie B2,Cheese,2024-02-12,2025-02-02,7,Montreal
+6362446f-160e-4cfe-8bbb-6540ba053790,Épicerie B2,Yogurt,2024-12-02,2025-02-15,39,Toronto
+e1c0c05d-0cf5-4b1a-b7f4-8c3fc62f0986,Épicerie B2,Orange Juice,2025-01-18,2025-02-18,38,Halifax
+7bd312b6-00dd-420f-92e1-1d8293976ff6,Épicerie B2,Tomatoes,2024-10-03,2025-02-17,20,Quebec City
+7cd92edb-aff3-4f86-bdb5-cf93b8aa0031,Épicerie B2,Cereal,2024-04-05,2025-02-19,29,Ottawa
+e4c6bdb8-2b79-4c60-9ea8-5d51772c3fe5,Épicerie B2,Ice Cream,2024-09-25,2025-02-04,13,Winnipeg
+29cc1c4a-3cab-495c-acef-95badfa707c0,Épicerie B2,Coffee,2025-01-05,2025-02-18,27,Winnipeg
+1f51733a-e361-4ab6-a433-4e11714d7ac1,Marché C3,Milk,2024-10-27,2025-02-15,36,Winnipeg
+deca8801-05c7-4166-bfcf-075034f0476e,Marché C3,Eggs,2024-10-11,2025-02-24,32,Edmonton
+0cc8b92b-fa97-4ee1-9cc5-f6e8e0bababe,Marché C3,Apples,2024-02-16,2025-02-01,40,Halifax
+076acc67-7cc0-4cbb-8316-4531ec6d60c2,Marché C3,Yogurt,2024-03-16,2025-02-16,14,Quebec City
+c521a8cb-95f4-4b38-a964-a8ded1e2e69b,Marché C3,Orange Juice,2024-05-11,2025-02-14,46,Toronto
+0f0024be-bb47-465b-b966-eec928a10f2c,Marché C3,Ground Beef,2024-07-19,2025-02-22,22,Quebec City
+1a0f4ad5-50c9-4475-bb00-63c98b8ebc7d,Marché C3,Tea,2024-02-27,2025-02-13,38,Quebec City
+673824e3-debb-44b5-9b63-5ecf977f073b,Alimentation D4,Milk,2024-05-06,2025-02-18,49,Vancouver
+c075ab82-f51c-4284-aa89-0e42ff14501e,Alimentation D4,Chicken Breast,2024-04-08,2025-02-12,26,Edmonton
+b179a90e-4075-4332-9506-45cce3205a8c,Alimentation D4,Cheese,2024-10-29,2025-02-14,41,Halifax
+34e798df-8273-4773-9c5a-aa4be9a267a3,Alimentation D4,Orange Juice,2024-12-28,2025-02-28,30,Toronto
+4ec3d2a5-4497-47cd-a7d6-4961f1fd8410,Alimentation D4,Potatoes,2024-12-10,2025-02-08,40,Vancouver
+6984dbe2-13cb-4d75-8b57-c78db175f3c5,Alimentation D4,Frozen Pizza,2024-12-12,2025-02-03,16,Vancouver
+29a9d0cf-070f-4db3-bbd4-aeb790beb172,Centre E5,Milk,2024-06-22,2025-02-03,36,Victoria
+c2008ed2-a3d2-4200-8e3e-ca4cf6ebd891,Centre E5,Bananas,2024-08-01,2025-02-28,33,Calgary
+95bb991f-f0f9-4a28-8168-680f9e239e3f,Centre E5,Pasta,2024-10-31,2025-02-02,5,Edmonton
+ba559af8-f4ab-489d-82ff-8cb7a35e2024,Centre E5,Cheese,2024-11-13,2025-02-16,11,Calgary
+6f1cea10-0301-44ed-ba29-a356efee5d18,Centre E5,Cereal,2024-05-25,2025-02-22,29,Calgary
+47c676f6-9431-4876-b2cb-5d2d626e20eb,Magasin F6,Bread,2024-12-25,2025-01-31,12,Quebec City
+aba4552c-7d09-4e98-a295-a11ca8537112,Magasin F6,Rice,2024-06-10,2025-02-27,28,Quebec City
+e6e334ac-4d13-49d5-b371-90e5f1f938f3,Boutique G7,Ground Beef,2024-11-18,2025-02-15,18,Ottawa
+e341399d-e220-4e8b-bc24-888c11debe2e,Boutique G7,Frozen Pizza,2025-01-26,2025-02-16,40,Victoria
+d2239c12-748b-4a96-8ba6-a2d40f053617,Marché H8,Orange Juice,2024-12-07,2025-02-03,46,Edmonton
+fdcd6139-1ca2-4a38-90e3-5c1e8bddec34,Marché H8,Ground Beef,2024-04-25,2025-02-14,26,Edmonton
+8de74583-7f18-4d67-80a6-e15d64bd04cb,Marché H8,Tea,2024-08-19,2025-02-14,49,Toronto
+37029732-161d-4b4b-bcef-a8012024b88b,Marché H8,Peanut Butter,2024-12-25,2025-02-27,12,Ottawa
+64222bb4-5ac2-4eda-bbfd-5d91ff7f561d,Épicerie I9,Eggs,2024-12-07,2025-02-10,49,Winnipeg
+f7de6b72-4862-49e3-a0e2-80d876dd78ed,Épicerie I9,Rice,2024-10-20,2025-01-30,37,Edmonton
+2d33d6bc-1ea5-4ed9-85a9-7737136d089a,Épicerie I9,Potatoes,2024-02-29,2025-02-28,8,Ottawa
+564dd559-dceb-48f6-b16e-bcec837bf96f,Épicerie I9,Frozen Pizza,2024-06-03,2025-02-16,42,Edmonton
+ec9511bc-56a7-4680-98c5-d3bc04f98b68,Supermarché J0,Bread,2024-03-26,2025-02-03,26,Winnipeg
+e691a34f-a896-4bc1-ae37-be351b71bb9f,Supermarché J0,Chicken Breast,2024-08-16,2025-02-18,29,Winnipeg
+28578733-c12c-4f70-aebf-32c4621564f6,Supermarché J0,Rice,2025-01-23,2025-01-30,6,Vancouver
+2aae0858-ae6a-4e29-8fac-43f1fc7044cd,Supermarché J0,Pasta,2024-04-14,2025-02-24,43,Toronto
+05a02e02-7597-4d25-b407-6d2fd8580d32,Supermarché J0,Ground Beef,2024-08-07,2025-02-20,49,Halifax
+30eb6873-af86-4312-8df5-c0abf0340c37,Supermarché J0,Ice Cream,2024-07-08,2025-02-17,26,Victoria
+8062af14-7c93-4cae-a65f-89a88a1e036a,Supermarché J0,Peanut Butter,2024-08-03,2025-02-05,16,Ottawa
